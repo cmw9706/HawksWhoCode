@@ -9,7 +9,7 @@ https://github.com/cmw9706/HawksWhoCode.Xamarin
 ### Getting Started with Git
 
 YouTube video on getting started using Git <br />
-https://www.youtube.com/watch?v=Y9XZQO1n_7c
+https://www.youtube.com/watch?v=ugN-IYV1NTM&t=1s
 
 Git website on how to use get <br />
 https://git-scm.com/book/en/v1/Getting-Started
